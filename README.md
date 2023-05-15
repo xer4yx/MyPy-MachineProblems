@@ -1,2 +1,2 @@
-# Machine-Problems
-Files of Python Machine Problems given to us during my college.
+# Python-Machine-Problems
+Files of Python Machine Problems I've done during my college.
